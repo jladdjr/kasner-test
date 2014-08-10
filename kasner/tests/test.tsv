@@ -1,0 +1,8 @@
+*Setting*	*Value*
+Library	lib/Simple.py
+
+*Variable*	*Value*
+
+*Test Case*	*Action*	*Argument*	*Argument*
+Simple Test
+	Print Value	"Hello, world!"
